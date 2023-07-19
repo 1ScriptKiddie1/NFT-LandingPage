@@ -1,0 +1,177 @@
+@import url('https://fonts.cdnfonts.com/css/zona-pro');
+@import url('https://fonts.cdnfonts.com/css/akrobat');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.yellow-block {
+    background-image: url("../img/yellow-block.jpg");
+    background-size: 1640px 1152px;
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 77px;
+}
+
+.logo {
+    margin-left: 84px;
+    margin-top: 23px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    transition: all 200ms ease;
+}
+
+nav {
+    font-family: 'Akrobat', sans-serif;
+    font-size: 20px;
+    margin-top: 48px;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 206px;
+}
+
+.menu {
+    display: flex;
+    margin-left: 843px;
+}
+
+li {
+    list-style-type: none;
+    margin-left: 25px;
+}
+
+a:hover {
+    color: #FF0000;
+    transition: all 200ms ease;
+}
+
+.lang {
+    background-color: #CE0002;
+    width: 120px;
+    height: 120px;
+    color: white;
+    font-family: 'Akrobat', sans-serif;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    float: right;
+    margin-left: 206px;
+    transition: all 200ms ease;
+}
+
+.lang:hover {
+    background-color: #FF0000;
+    transition: all 200ms ease;
+}
+
+.main-section .container h1 {
+    font-size: 72px;
+    height: 255px;
+    font-family: 'Zona Pro', sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-left: 88px;
+}
+
+.main-section .container .first-mn-section {
+    display: flex;
+}
+
+.main-img {
+    width: 786px;
+    height: 733px;
+    margin-top: -190px;
+}
+
+.container button {
+    background-color: #CE0002;
+    color: #fff;
+    border: none;
+    width: 120px;
+    height: 110px;
+    font-size: 22px;
+    font-weight: 800;
+    font-family: 'Akrobat', sans-serif;
+    cursor: pointer;
+    margin-left: 85px;
+    transition: all 200ms ease;
+}
+
+.container button:hover {
+    background-color: #FF0000;
+    transition: all 200ms ease;
+}
+
+.second-mn-section {
+    display: flex;
+}
+
+.second-mn-section p {
+    width: 459px;
+    height: 95px;
+    margin-left: 66px;
+    font-family: 'Akrobat', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.soc-links {
+    margin-top: -65px;
+    margin-left: 90px;
+}
+
+.soc-links .link-item {
+    margin-bottom: 18px;
+    width: 32px;
+    height: 32px;
+}
+
+footer {
+    background-color: #EFEFEF;
+    color: #7E7E7E;
+    height: 54px;
+    width: 100%;
+    font-family: 'Akrobat', sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer-menu {
+    display: flex;
+}
+
+footer a {
+    color: #7E7E7E;
+    transition: all 200ms ease;
+}
+
+footer a:hover {
+    color: #494949;
+    transition: all 200ms ease;
+}
+
+.footer-soc-links {
+    display: flex;
+}
+
+.footer-link-item {
+    margin-right: 18px;
+}
+
+footer p {
+    margin-left: 27px;
+}
+
+
+
