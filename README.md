@@ -1,2 +1,5 @@
 # Website---Mobile-game-studio
-This is my first time making websites. Before that, I learned a little about the basics of html and css. I know there will be many mistakes and wrong decisions, but I will try to improve and upgrade my skills.
+This is one of my first layouts. Before that, I learned a little about the basics of html and css. I know there will be many mistakes and wrong decisions, but I will try to improve and upgrade my skills.
+Website Template: https://www.figma.com/file/0hfNUTOuJDRHGWilFAUkFV/Toy.Stream---%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-(Copy)?node-id=0%3A1 
+
+Это один из первых моих макетов. Перед этим я немного изучил основы html и css. Я знаю, что будет много ошибок и неправильных решений, но я постараюсь улучшить и повысить свои навыки.
