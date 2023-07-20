@@ -1,5 +1,5 @@
 # Website---Mobile-game-studio
-This is one of my first layouts. Before that, I learned a little about the basics of html and css. I know there will be many mistakes and wrong decisions, but I will try to improve and upgrade my skills. And also study adaptive layout, because this project assumed adaptability, most likely I will continue to supplement this project.
+This is one of my first layouts. Before that, I learned a little about the basics of html and css. I know there will be many mistakes and wrong decisions, but I'll try to improve and upgrade my skills. And also study adaptive layout, because this project assumed adaptability, most likely I'll continue to supplement this project.
 
 Website Template ( Макет сайта ): https://www.figma.com/file/0hfNUTOuJDRHGWilFAUkFV/Toy.Stream---%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-(Copy)?node-id=0%3A1 
 
